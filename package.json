@@ -1,0 +1,15 @@
+{
+  "name": "my-vue-app",
+  "version": "1.0.0",
+  "description": "A Vue.js application that connects to Notion databases",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "@notionhq/client": "^0.4.4",
+    "express": "^4.17.1",
+    "vue": "^2.6.14",
+    "dotenv": "16.0.3"
+  }
+}
